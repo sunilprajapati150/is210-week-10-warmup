@@ -379,27 +379,3 @@ credit.
 
 .. _GitHub: https://github.com/
 .. _Python String Documentation: https://docs.python.org/2/library/stdtypes.html
-==========================================
-IS 210: Software Application Programming I
-==========================================
-------------
-Homework #07
-------------
-
-:College: CUNY School of Professional Studies
-:Course-Name: Software Application Programming I
-:Course-Code: IS 210
-:Available: 2014-10-06T09:00:00-0400
-:Due-Date: 2014-10-14T09:00:00-0400
-
-Overview
-========
-
-The following tasks will either have you interacting with existing files in
-the starter repo or creating new ones on the fly. Don't forget to add your
-interpreter directive, utf-8 encoding, and a short docstring with any new files
-that you create!
-
-Warmup Tasks
-============
-
