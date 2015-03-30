@@ -146,7 +146,7 @@ Specifications
 
     .. tip::
 
-        Keep in mind that the assignment operator (``=``), doesn't a
+        Keep in mind that the assignment operator (``=``), doesn't create a new
         dictionary, it just creates a new reference to it. There is a built-in
         dictionary function that creates a new copy of a dictionary.
 
@@ -310,25 +310,6 @@ Examples
     >>> import task_07
     >>> task_07.iter_dict_funky_sum(task_07.DATA)
     140166242
-
-Task 08
--------
-
-
-
-Specifications
-^^^^^^^^^^^^^^
-
-[step-by-step directions of the task]
-
-Examples
-^^^^^^^^
-
-[examples of the work in-progress]
-
-.. code:: pycon
-
-    >>>
 
 Executing Tests
 ===============

@@ -50,6 +50,7 @@ BANDS = {
     },
 }
 
+
 SUPERHEROES = {
     'Kitty Pryde': {'alias': 'Shadowcat', 'pet': 'Lockheed'},
     'Bruce Wayne': {'alias': 'Batman', 'pet': 'Ace'},
